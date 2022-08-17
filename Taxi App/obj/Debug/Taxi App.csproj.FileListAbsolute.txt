@@ -1,0 +1,11 @@
+D:\OneDrive\Documents\Taxi App\Taxi App\bin\Debug\Taxi App.exe.config
+D:\OneDrive\Documents\Taxi App\Taxi App\bin\Debug\Taxi App.exe
+D:\OneDrive\Documents\Taxi App\Taxi App\bin\Debug\Taxi App.pdb
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi_App.Form1.resources
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi_App.Properties.Resources.resources
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.exe
+D:\OneDrive\Documents\Taxi App\Taxi App\obj\Debug\Taxi App.pdb
